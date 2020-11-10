@@ -1,0 +1,51 @@
+,name,album,artist,release_date,lenght,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Tyler Herro,Tyler Herro,Jack Harlow,2020-10-22,156497,86,0.794,0.11,0.794,0.756,0.0,0.247,-7.16,0.136,123.066,4
+1,"Lemonade (feat. Gunna, Don Toliver & NAV)",B4 The Storm,Internet Money,2020-08-28,195428,90,0.8,0.25,0.8,0.658,0.0,0.111,-6.142,0.079,140.042,4
+2,Runnin,SAVAGE MODE II,21 Savage,2020-10-02,195906,86,0.819,0.00748,0.819,0.626,0.101,0.167,-4.574,0.202,143.01,4
+3,Onna Come Up,Onna Come Up,Lil Eazzyy,2020-06-05,128078,67,0.793,0.382,0.793,0.571,5.27e-06,0.101,-9.247,0.249,150.052,4
+4,PRACTICE,BLAME IT ON BABY (DELUXE),DaBaby,2020-08-04,122586,82,0.849,0.0239,0.849,0.536,0.0,0.126,-7.307,0.349,141.964,4
+5,What That Speed Bout!?,What That Speed Bout!?,Mike WiLL Made-It,2020-11-06,171165,74,0.755,0.125,0.755,0.81,0.0,0.382,-4.061,0.235,101.93,4
+6,Moonwalking in Calabasas (feat. Blueface) - Remix,Moonwalking in Calabasas (feat. Blueface) [Remix],DDG,2020-10-30,170232,82,0.928,0.0614,0.928,0.341,0.0,0.162,-10.196,0.103,129.966,4
+7,Moonlight (feat. Big Sean),From Dark to Light,NLE Choppa,2020-11-01,210057,69,0.681,0.62,0.681,0.791,1.97e-06,0.106,-6.292,0.131,147.961,4
+8,Kacey Talk,Top,YoungBoy Never Broke Again,2020-09-11,151248,79,0.877,0.535,0.877,0.607,0.0,0.138,-7.818,0.15,127.055,4
+9,Martin & Gina,THE GOAT,Polo G,2020-05-15,132832,87,0.832,0.345,0.832,0.534,0.0,0.165,-7.813,0.253,93.924,4
+10,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,190476,95,0.823,0.114,0.823,0.586,0.0,0.193,-6.606,0.2,125.971,4
+11,Whoopty,Whoopty,CJ,2020-08-20,123480,84,0.714,0.194,0.714,0.609,0.0,0.126,-7.683,0.17,140.206,4
+12,Mr. Right Now (feat. Drake),SAVAGE MODE II,21 Savage,2020-10-02,193838,87,0.647,0.231,0.647,0.667,0.0,0.133,-5.563,0.304,172.08,4
+13,Blastoff (feat. Juice Wrld & Trippie Redd),B4 The Storm,Internet Money,2020-08-29,174729,82,0.761,0.114,0.761,0.517,0.0,0.157,-6.916,0.0927,147.912,4
+14,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),Rod Wave,2020-08-07,235987,82,0.874,0.147,0.874,0.443,0.0,0.124,-9.628,0.241,118.004,4
+15,My Window (feat. Lil Wayne),Top,YoungBoy Never Broke Again,2020-09-11,192000,77,0.778,0.187,0.778,0.662,0.0,0.116,-6.081,0.308,149.935,4
+16,Aim For The Moon (feat. Quavo),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,175756,71,0.713,0.497,0.713,0.605,3.46e-06,0.115,-7.487,0.107,142.025,4
+17,Patek,Patek,Future,2020-07-30,280665,78,0.801,0.00301,0.801,0.596,0.0,0.162,-4.72,0.0534,120.028,4
+18,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,2020-08-14,261492,94,0.761,0.244,0.761,0.518,3.47e-05,0.107,-8.871,0.134,133.976,4
+19,Young Wheezy (with Gunna),Emergency Tsunami,NAV,2020-11-06,151481,72,0.917,0.00998,0.917,0.529,0.0,0.0884,-3.785,0.101,122.0,4
+20,Losses,Losses,Lil Tjay,2020-10-30,195648,76,0.848,0.153,0.848,0.457,0.0,0.115,-10.118,0.293,100.018,4
+21,Wolves (feat. Post Malone),Detroit 2,Big Sean,2020-09-04,199758,86,0.724,0.0978,0.724,0.675,9.41e-06,0.351,-5.267,0.0867,160.048,4
+22,Spicy (feat. Post Malone),Spicy (feat. Post Malone),Ty Dolla $ign,2020-10-21,144027,83,0.784,0.14,0.784,0.496,0.0,0.113,-5.746,0.0435,100.002,4
+23,Got It On Me,Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,164579,86,0.688,0.00815,0.688,0.647,1.65e-05,0.095,-7.258,0.19,88.834,4
+24,Weeeeee,Pegasus (Spooky Sounds Edition),Trippie Redd,2020-10-31,152920,65,0.729,0.111,0.729,0.503,0.0,0.123,-8.229,0.081,134.927,4
+25,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),Travis Scott,2020-09-25,202794,86,0.835,0.00671,0.835,0.699,0.0,0.195,-5.405,0.277,154.981,4
+26,Don't Need Friends (feat. Lil Baby),Emergency Tsunami,NAV,2020-11-06,184619,69,0.852,0.0123,0.852,0.674,0.0,0.126,-4.166,0.211,130.085,4
+27,Epidemic,Epidemic,Polo G,2020-09-25,177272,81,0.616,0.128,0.616,0.617,0.0,0.177,-8.431,0.52,175.929,4
+28,Glock In My Lap,SAVAGE MODE II,21 Savage,2020-10-02,193591,82,0.847,0.00574,0.847,0.733,1.04e-05,0.151,-6.439,0.16,130.029,4
+29,When You Down (with Polo G feat. Lil Durk),Virgo World,Lil Tecca,2020-09-18,193013,76,0.514,0.235,0.514,0.634,0.0,0.13,-6.514,0.383,76.181,4
+30,Back to the Streets (feat. Jhené Aiko),Back to the Streets (feat. Jhené Aiko),Saweetie,2020-10-23,189496,76,0.865,0.168,0.865,0.792,1.46e-05,0.107,-4.207,0.0677,101.985,4
+31,Sleepy Hollow,Sleepy Hollow,Trippie Redd,2020-10-07,101353,79,0.735,0.0104,0.735,0.662,0.0,0.153,-7.862,0.05,87.999,4
+32,Double G (feat. Pop Smoke),Double G (feat. Pop Smoke),French Montana,2020-10-30,157880,72,0.757,0.116,0.757,0.633,0.0,0.204,-6.102,0.339,143.186,4
+33,Twin Flame,From Dark to Light,NLE Choppa,2020-11-01,197132,62,0.605,0.17,0.605,0.658,0.0,0.363,-5.983,0.119,107.669,5
+34,Pardon (feat. Lil Baby),The L.I.B.R.A.,T.I.,2020-10-16,259958,71,0.955,0.181,0.955,0.587,0.0,0.585,-5.894,0.32,111.975,4
+35,Back (feat. Yo Gotti),Back,Jeezy,2020-10-23,188559,70,0.806,0.133,0.806,0.718,0.0,0.398,-4.212,0.0879,98.523,4
+36,24 (feat. Lil Baby),24 (feat. Lil Baby),Money Man,2020-08-14,182857,84,0.868,0.146,0.868,0.638,0.0565,0.0931,-7.746,0.0736,126.03,4
+37,Bryson,From Dark to Light,NLE Choppa,2020-11-01,221053,70,0.452,0.022,0.452,0.748,0.0,0.0422,-7.858,0.302,173.722,4
+38,Throat Baby (Go Baby),Throat Baby (Go Baby),BRS Kash,2020-07-24,218181,75,0.9,0.0135,0.9,0.521,0.0,0.0951,-7.286,0.147,132.007,4
+39,4 Thangs (feat. Big Sean & Hit-Boy),4 Thangs (feat. Big Sean & Hit-Boy),Freddie Gibbs,2020-10-30,104911,70,0.813,0.0547,0.813,0.557,0.0,0.128,-6.655,0.133,83.012,4
+40,Stay Down (with 6LACK & Young Thug),Stay Down (with 6LACK & Young Thug),Lil Durk,2020-10-30,169330,75,0.813,0.0909,0.813,0.57,0.0,0.0982,-8.409,0.265,109.07,4
+41,Lets Link (feat. Tyga & Lil Mosey),Lets Link (feat. Tyga & Lil Mosey),WhoHeem,2020-10-21,216000,66,0.866,0.0227,0.866,0.701,0.0,0.0947,-7.737,0.124,120.031,4
+42,Quarantine Thick,Quarantine Thick (feat. Mulatto),2 Chainz,2020-11-06,190560,66,0.937,0.14,0.937,0.648,0.0,0.18,-6.047,0.0655,135.895,4
+43,"Tap In (feat. Post Malone, DaBaby & Jack Harlow)","Tap In (feat. Post Malone, DaBaby & Jack Harlow)",Saweetie,2020-08-28,253568,78,0.948,0.00647,0.948,0.63,2.02e-05,0.0737,-7.011,0.219,100.032,4
+44,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),Cardi B,2020-08-07,187541,97,0.935,0.0194,0.935,0.454,0.0,0.0824,-7.509,0.375,133.073,4
+45,Muwop (feat. Gucci Mane),Muwop (feat. Gucci Mane),Mulatto,2020-07-30,200135,73,0.79,0.0613,0.79,0.61,0.0,0.243,-6.958,0.102,145.88,4
+46,You’re Mines Still (feat. Drake),You’re Mines Still (feat. Drake),Yung Bleu,2020-10-15,226220,78,0.575,0.317,0.575,0.609,0.0,0.105,-4.88,0.121,83.004,4
+47,Don’t Stop (feat. Young Thug),Don’t Stop (feat. Young Thug),Megan Thee Stallion,2020-10-02,187940,79,0.933,0.00184,0.933,0.757,0.0,0.135,-3.212,0.117,137.993,4
+48,The Code (feat. Polo G),Welcome to O'Block,King Von,2020-10-30,202413,75,0.831,0.0582,0.831,0.62,0.0,0.119,-8.397,0.338,133.17,4
+49,Look Over Your Shoulder (feat. Kendrick Lamar),Look Over Your Shoulder (feat. Kendrick Lamar),Busta Rhymes,2020-10-29,248810,69,0.6,0.0438,0.6,0.887,0.0,0.68,-4.345,0.311,77.896,4

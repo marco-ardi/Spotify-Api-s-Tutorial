@@ -73,7 +73,7 @@ class SpotifyAPI(object):
         if expires < now:
             self.perform_auth()
             return self.get_access_token()
-        elif token == None:
+        if token == None:
             self.perform_auth()
             return self.get_access_token() 
         return token
@@ -132,9 +132,9 @@ def getTrackIDs(user, playlist_id):
 ids = getTrackIDs('7r0cXaVKRQ6IGSqj_NYJ5Q', '37i9dQZEVXbMDoHDwVN2tF')
 
 #a method that gets features for every track in a playlist, such as name, artist, popularity ect
-def getTrackFeatures(id):
-    meta = sp.track(id) #track's metadata
-    features = sp.audio_features(id) #features of the given song
+def getTrackFeatures(myid):
+    meta = sp.track(myid) #track's metadata
+    features = sp.audio_features(myid) #features of the given song
     
     
     #metadata
@@ -168,7 +168,7 @@ def genreArtist(name):
     
 #method that gets features of every song in a playlist, put it in a Pandas DataFrame and also download it as a .csv file
 tracks = []
-for i in range(len(ids)):
+for i, item in enumerate(ids):
     time.sleep(.5)
     track = getTrackFeatures(ids[i])
     tracks.append(track)

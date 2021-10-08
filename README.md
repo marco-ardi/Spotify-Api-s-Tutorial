@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/marco-ardi/spotify-api-s-tutorial/badge)](https://www.codefactor.io/repository/github/marco-ardi/spotify-api-s-tutorial)
 # Spotify APIs Tutorial
 ## Overview
 Tutorial for Social Media Management's exam @ University of Catania
